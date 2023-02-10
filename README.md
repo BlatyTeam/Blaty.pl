@@ -17,7 +17,7 @@
 
 <image src="RenderHomeJJ.png" width="400">
 <image src="Tryby.png" width="350">
-<image src="RenderRyba1.png" width="400" align="right">
+<image src="renderryba1.png" width="400" align="right">
 
 <center><image src="przedziałka.png" width="400"></center>
 <a href="BoxPVP.html"><image src="BoxPVP1.png" width="260"></a>
