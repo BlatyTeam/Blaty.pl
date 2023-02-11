@@ -8,7 +8,7 @@
 </head>
 <body background="tloo.png">
 
-<a href="BlatyHome.html"><image src="BlatLogo.png" width="100">
+  <a href="BlatyHome.html"><image src="BlatLogo.png" width="100"></a>
 
 <center><image src="BlatyHomeIcon.png" width="600"></center>
 <center><image src="przedziałka.png" width="400"></center>
