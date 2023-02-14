@@ -1,0 +1,70 @@
+.Main{
+	background-color: #008080;
+	height: 120px;
+	width: 1153px;
+	border: 5px solid #20B2AA;
+	margin: 2px;
+	top: 1px;
+	position: fixed;
+
+}
+
+.Shop{
+	height: 108px;
+	width: 108px;
+	margin: 7px;
+	top: 37px;
+	position: fixed;
+	left: 670;
+
+}
+
+.Home{
+	height: 108px;
+	width: 108px;
+	margin: 7px;
+	top: 37px;
+	position: fixed;
+	left: 30;
+
+}
+
+.SOON{
+	height: 108px;
+	width: 108px;
+	margin: 7px;
+	top: 37px;
+	position: fixed;
+	left: 830;
+
+}
+
+.OurGames{
+	height: 108px;
+	width: 108px;
+	margin: 7px;
+	top: 18px;
+	position: fixed;
+	left: 295;
+
+}
+
+.News{
+	height: 108px;
+	width: 108px;
+	margin: 7px;
+	top: 37px;
+	position: fixed;
+	left: 165;
+
+}
+
+.Media{
+	height: 108px;
+	width: 108px;
+	margin: 7px;
+	top: 37px;
+	position: fixed;
+	left: 1010;
+
+}
